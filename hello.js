@@ -1,2 +1,1 @@
-const username = 'zakharderzhko';
-console.log('Hello, ${username}');
+console.log('Hello, zakharderzhko');
